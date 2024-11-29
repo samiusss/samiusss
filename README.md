@@ -5,7 +5,7 @@
 🎓 **Software Engineering Student** @ [Laval University](https://www.ulaval.ca/)  
 💻 **Full-Stack Developer** @ [MCN](https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique)  
 
-- 🛠️ Tech I use daily: `Go`, `Python`, `Java`, `JavaScript`, `React`  
+- 🛠️ Tech I use daily: `Go`, `Python`, `Java`, `JavaScript`, `React`, `NextJS`, `MongoDB`, `Docker`  
 - 🗨️ Chat with me about: **backend development**, **API design**, **crypto trends**, or your latest travel adventure  
 
 Beyond the screen, you’ll find me:  
