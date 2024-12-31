@@ -3,7 +3,7 @@
 #### Full-Stack Developer & Lifelong Learner with a Passion for Adventure 🌍  
 
 🎓 **Software Engineering Student** @ [Laval University](https://www.ulaval.ca/)  
-💻 **Full-Stack Developer** @ [MCN](https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique)  
+💻 **Back-End Intern** @ [Coveo](https://www.coveo.com/en)  
 
 - 🛠️ Tech I use daily: `Go`, `Python`, `Java`, `JavaScript`, `React`, `NextJS`, `MongoDB`, `Docker`  
 - 🗨️ Chat with me about: **backend development**, **API design**, **crypto trends**, or your latest travel adventure  
