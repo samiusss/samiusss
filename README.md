@@ -17,7 +17,7 @@
 ---
 
 🛠 **My Daily Toolkit:**  
-`Go` · `Python` · `Java` · `TypeScript` · `Next.js` · `MongoDB` · `PostgreSQL`
+`Go` · `Python` · `Java` · `TypeScript` · `NextJS` · `MongoDB` · `PostgreSQL`
 
 🚀 **What’s on my Radar:**  
 - Building micro-SaaS that actually solve problems (not just mine)  
